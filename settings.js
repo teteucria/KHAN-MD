@@ -2,10 +2,10 @@
 module.exports = {
   SESSION_ID: "",  // add session Id 
   
-  OWNER_NUMBER: "923427582273", // add owner number 
+  OWNER_NUMBER: "16981259752", // add owner number 
   
-  PREFIX: ".", // prefix (e.g., ., /, !, *)
+  PREFIX: "!", // prefix (e.g., ., /, !, *)
   
-  TIMEZONE: "Asia/Karachi" // put your country timeZone....leave blank if u don't know.
+  TIMEZONE: "Asia" // put your country timeZone....leave blank if u don't know.
 };
 
